@@ -1,1 +1,1 @@
-location.href = "https://melt-adzuki.github.io/gion-gen/" + location.search
+location.href = "https://gion.azuki.cf/" + location.search
